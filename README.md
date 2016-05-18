@@ -11,5 +11,6 @@ HUD
 
 
 NYC Housing Preservation and Development (HPD)
-*`UMC History By Zip and Category.xlsx` - HPD's Section 8 voucher households by zip code and by type for each month from January 2003 through May 2016.
+* `UMC History By Zip and Category.xlsx` - HPD's Section 8 voucher units by zip code and by type for each month from January 2003 through May 2016. 
+* *Types
 
