@@ -11,4 +11,5 @@ Check out our [series on Section 8](http://www.wnyc.org/series/section-8/) with 
 NYC Housing Preservation and Development (HPD) vouchers
 * `UMC History By Zip and Category.xlsx` - HPD's Section 8 voucher units by zip code and by type of voucher for each month from January 2003 through May 2016. 'Regular' vouchers are traditional, mobile vouchers that move with a tenant. These are the 'Housing Choice Vouchers' we focused on in our analysis. 'Project Based Vouchers (PBV)' are connected to an affordable housing unit. 'Enhanced' vouchers are for households in buildings leaving an affordable housing program.
 
-New York City Housing Authority (NYCHA) vouchers - Year End data for number of Housing Choice Voucher households in 2000, 2006, 2007, 2009, 2010, 2011, 2013, 2014 and 2015
+New York City Housing Authority (NYCHA) vouchers
+Year End data for number of Housing Choice Voucher households in 2000, 2006, 2007, 2009, 2010, 2011, 2013, 2014 and 2015
