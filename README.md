@@ -13,5 +13,5 @@ NYC Housing Preservation and Development (HPD) vouchers
 
 New York City Housing Authority (NYCHA) vouchers
 * Year End data for number of Housing Choice Voucher households in 2000, 2006, 2007, 2009, 2010, 2011, 2013, 2014 and 2015
-* `Long Term Suspensions & Transfers 04.21 v3.xlsx` has a list of census tracts that Section 8 households who had to move because their units failed inspection moved from, and a list of census tracts they moved to. Of the 495 NYCHA Section 8 households who had to move because their apartments failed inspection in 2015, these 160 households successfully transferred to a new apartment. 
-* `Long Term Suspension Move Outs 04 21 FINAL.xlsx` is a list of census tracts/zip codes, one for each NYCHA Section 8 household who couldn’t find a new place to accept their voucher after their apartment in the census tract failed inspection in 2015.
+* `Long Term Suspensions & Transfers 04.21 v3.xlsx` has a list of census tracts that Section 8 households who had to move because their units failed inspection moved from, and a list of census tracts they moved to. Of the 494 NYCHA Section 8 households who had to move because their apartments failed inspection in 2015, these 160 households successfully transferred to a new apartment. 
+* `Long Term Suspension Move Outs 04 21 FINAL.xlsx` is a list of census tracts/zip codes, one for each NYCHA Section 8 household who couldn’t find a new place to accept their voucher after their apartment in the census tract failed inspection in 2015 and they were required to move.
